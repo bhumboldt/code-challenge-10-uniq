@@ -1,0 +1,25 @@
+{
+  "name": "code-challenge-10-uniq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhumboldt/code-challenge-10-uniq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhumboldt/code-challenge-10-uniq/issues"
+  },
+  "homepage": "https://github.com/bhumboldt/code-challenge-10-uniq#readme",
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "typescript": "^5.3.3"
+  }
+}
